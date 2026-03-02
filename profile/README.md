@@ -5,12 +5,12 @@
 
 | [名称](链接) | 简介 | 代码量 | 创建日期 |
 |-----------|------|--------|---------|
-| [osrunner](https://github.com/cloudlab-os/osrunner) | Remote code runner service(backend lang especially) via k8s | ~124961 | 2024-02-01 |
-| [community](https://github.com/cloudlab-os/community) | 社区前端 | ~63293 | 2023-07-26 |
-| [lab](https://github.com/cloudlab-os/lab) | 社区后端 | ~43226 | 2023-07-26 |
+| ⭐️[osrunner](https://github.com/cloudlab-os/osrunner) | Remote code runner service(backend lang especially) via k8s | ~124961 | 2024-02-01 |
+| ⭐️[community](https://github.com/cloudlab-os/community) | 社区前端 | ~63293 | 2023-07-26 |
+| ⭐️[lab](https://github.com/cloudlab-os/lab) | 社区后端 | ~43226 | 2023-07-26 |
 | [react-agents](https://github.com/cloudlab-os/react-agents) | REACT组件 | ~33128 | 2025-05-12 |
 | [web-content-editor](https://github.com/cloudlab-os/web-content-editor) | 内容编辑，含课程、试卷、作业等 | ~31522 | 2025-12-18 |
-| [workspace](https://github.com/cloudlab-os/workspace) | 工作台主页，前端 | ~25281 | 2023-07-13 |
+| ⭐️[workspace](https://github.com/cloudlab-os/workspace) | 工作台主页，前端 | ~25281 | 2023-07-13 |
 | [oscollege-admin-api](https://github.com/cloudlab-os/oscollege-admin-api) | 大学堂后台-资源管理 | ~18721 | 2023-08-10 |
 | [blog-interacting](https://github.com/cloudlab-os/blog-interacting) | blog-interacting | ~12401 | 2025-07-21 |
 | [skill-agent-web](https://github.com/cloudlab-os/skill-agent-web) | skill智能体web | ~11740 | 2026-01-29 |
@@ -18,23 +18,23 @@
 | [contest2025](https://github.com/cloudlab-os/contest2025) | 2025外包服务大赛 | ~9068 | 2025-06-06 |
 | [apps](https://github.com/cloudlab-os/apps) | 开放能力核心模块 | ~8172 | 2024-12-30 |
 | [KnowledgeCard](https://github.com/cloudlab-os/KnowledgeCard) | 交互式知识卡片UI组件 | ~7916 | 2026-01-12 |
-| [osrunner-ui](https://github.com/cloudlab-os/osrunner-ui) | 代码运行平台前端界面 | ~7018 | 2024-02-08 |
+| ⭐️[osrunner-ui](https://github.com/cloudlab-os/osrunner-ui) | 代码运行平台前端界面 | ~7018 | 2024-02-08 |
 | [edu-agent-web](https://github.com/cloudlab-os/edu-agent-web) | 教培AI工作台智能体web | ~6171 | 2025-07-14 |
 | [quiz-web-ui](https://github.com/cloudlab-os/quiz-web-ui) | 小测web ui | ~6032 | 2025-03-11 |
 | [content-center](https://github.com/cloudlab-os/content-center) | 内容中心 | ~6009 | 2025-06-27 |
 | [k8s-scripts](https://github.com/cloudlab-os/k8s-scripts) | None | ~5339 | 2024-05-27 |
-| [vgen-server](https://github.com/cloudlab-os/vgen-server) | None | ~5055 | 2025-07-01 |
+| ⭐️[vgen-server](https://github.com/cloudlab-os/vgen-server) | None | ~5055 | 2025-07-01 |
 | [ai-engine](https://github.com/cloudlab-os/ai-engine) | None | ~4878 | 2026-01-21 |
-| [openapi](https://github.com/cloudlab-os/openapi) | 开放接口服务 | ~4288 | 2023-07-13 |
+| ⭐️[openapi](https://github.com/cloudlab-os/openapi) | 开放接口服务 | ~4288 | 2023-07-13 |
 | [agi-agent](https://github.com/cloudlab-os/agi-agent) | AI 工具产品 | ~4208 | 2025-04-28 |
 | [oj](https://github.com/cloudlab-os/oj) | None | ~4101 | 2024-02-29 |
 | [ui-components](https://github.com/cloudlab-os/ui-components) | UI基础组件库 | ~3760 | 2025-07-21 |
-| [pty](https://github.com/cloudlab-os/pty) | 伪终端应用，实现与容器交互 | ~3568 | 2023-07-13 |
+| ⭐️[pty](https://github.com/cloudlab-os/pty) | 伪终端应用，实现与容器交互 | ~3568 | 2023-07-13 |
 | [tenant-center](https://github.com/cloudlab-os/tenant-center) | 租户中心 | ~3345 | 2025-12-18 |
 | [user-center](https://github.com/cloudlab-os/user-center) | 用户中心 | ~3128 | 2026-01-06 |
 | [resource-center](https://github.com/cloudlab-os/resource-center) | None | ~2803 | 2025-12-18 |
 | [video-parser](https://github.com/cloudlab-os/video-parser) | None | ~2778 | 2025-07-12 |
-| [quiz](https://github.com/cloudlab-os/quiz) | ccm类leetcode测验平台 | ~2776 | 2024-09-05 |
+| ⭐️[quiz](https://github.com/cloudlab-os/quiz) | ccm类leetcode测验平台 | ~2776 | 2024-09-05 |
 | [docs-center](https://github.com/cloudlab-os/docs-center) | 文档中心 | ~2759 | 2025-12-15 |
 | [shortlink](https://github.com/cloudlab-os/shortlink) | 短链服务 | ~2687 | 2024-04-23 |
 | [docs](https://github.com/cloudlab-os/docs) | openapi文档，前端 | ~2582 | 2023-08-02 |
