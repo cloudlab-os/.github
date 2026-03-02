@@ -5,4 +5,4 @@
 
 |项目|简介|
 |--|--|
-|lab|实验室后端|
+|[lab](https://github.com/cloudlab-os/lab)|实验室后端|
